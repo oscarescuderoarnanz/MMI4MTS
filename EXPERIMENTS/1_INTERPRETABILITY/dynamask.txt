@@ -1,0 +1,56 @@
+2024-10-28 10:07:42,031 - INFO - Starting the search...
+2024-10-28 16:58:26,575 - INFO - Still running... Evaluated 20 combinations.
+2024-10-29 00:29:38,054 - INFO - Still running... Evaluated 40 combinations.
+2024-10-29 07:02:59,817 - INFO - Still running... Evaluated 60 combinations.
+2024-10-29 14:03:19,357 - INFO - Still running... Evaluated 80 combinations.
+2024-10-29 21:27:44,160 - INFO - Starting the search...
+2024-10-30 04:12:38,445 - INFO - Still running... Evaluated 20 combinations.
+2024-10-30 11:33:31,974 - INFO - Still running... Evaluated 40 combinations.
+2024-10-30 19:00:43,386 - INFO - Still running... Evaluated 60 combinations.
+2024-10-31 02:08:35,019 - INFO - Still running... Evaluated 80 combinations.
+2024-10-31 09:18:15,937 - INFO - Still running... Evaluated 100 combinations.
+2024-10-31 20:19:00,788 - INFO - Starting the search...
+2024-10-31 20:20:53,582 - INFO - Starting the search...
+2024-10-31 20:22:30,381 - INFO - Starting the search...
+2024-10-31 20:22:42,107 - INFO - Starting the search...
+2024-11-01 03:57:59,269 - INFO - Still running... Evaluated 20 combinations.
+2024-11-01 12:38:48,783 - INFO - Still running... Evaluated 40 combinations.
+2024-11-01 20:37:58,730 - INFO - Still running... Evaluated 60 combinations.
+2024-11-02 03:51:24,812 - INFO - Still running... Evaluated 80 combinations.
+2024-11-02 11:53:14,829 - INFO - Still running... Evaluated 100 combinations.
+2024-11-02 18:13:16,562 - INFO - Starting the search...
+2024-11-03 01:12:19,827 - INFO - Starting the search...
+2024-11-03 13:10:42,521 - INFO - Still running... Evaluated 20 combinations.
+2024-11-03 17:34:09,102 - INFO - Starting the search...
+2024-11-03 17:39:26,568 - INFO - Starting the search...
+2024-11-03 19:09:08,907 - INFO - Still running... Evaluated 5 combinations.
+2024-11-03 20:55:57,625 - INFO - Still running... Evaluated 10 combinations.
+2024-11-03 23:22:56,956 - INFO - Still running... Evaluated 15 combinations.
+2024-11-04 02:38:41,943 - INFO - Still running... Evaluated 20 combinations.
+2024-11-04 12:04:18,231 - INFO - Still running... Evaluated 25 combinations.
+2024-11-04 20:49:30,761 - INFO - Still running... Evaluated 30 combinations.
+2024-11-05 06:51:50,452 - INFO - Still running... Evaluated 35 combinations.
+2024-11-19 22:21:08,519 - INFO - Starting the search...
+2024-11-20 20:39:37,258 - INFO - Starting the search...
+2024-11-20 22:08:04,045 - INFO - Still running... Evaluated 5 combinations.
+2024-11-21 00:07:39,370 - INFO - Still running... Evaluated 10 combinations.
+2024-11-21 01:59:54,595 - INFO - Still running... Evaluated 15 combinations.
+2024-11-21 04:58:43,603 - INFO - Still running... Evaluated 20 combinations.
+2024-11-21 09:16:31,843 - INFO - Still running... Evaluated 25 combinations.
+2024-11-21 15:59:45,642 - INFO - Still running... Evaluated 30 combinations.
+2024-11-22 01:12:16,694 - INFO - Still running... Evaluated 35 combinations.
+2024-11-22 05:53:42,814 - INFO - Starting the search...
+2024-11-22 07:37:15,435 - INFO - Still running... Evaluated 5 combinations.
+2024-11-22 09:34:55,998 - INFO - Still running... Evaluated 10 combinations.
+2024-11-22 11:51:40,033 - INFO - Still running... Evaluated 15 combinations.
+2024-11-22 13:21:07,163 - INFO - Starting the search...
+2024-11-22 14:42:56,793 - INFO - Still running... Evaluated 5 combinations.
+2024-11-22 16:41:39,019 - INFO - Still running... Evaluated 10 combinations.
+2024-11-22 18:23:33,736 - INFO - Still running... Evaluated 15 combinations.
+2024-11-22 23:21:22,780 - INFO - Still running... Evaluated 20 combinations.
+2024-11-23 18:36:09,294 - INFO - Still running... Evaluated 25 combinations.
+2024-11-24 07:49:42,156 - INFO - Still running... Evaluated 30 combinations.
+2024-11-24 12:19:44,374 - INFO - Starting the search...
+2024-11-24 14:09:17,020 - INFO - Still running... Evaluated 5 combinations.
+2024-11-24 16:05:31,707 - INFO - Still running... Evaluated 10 combinations.
+2024-11-24 18:06:02,770 - INFO - Still running... Evaluated 15 combinations.

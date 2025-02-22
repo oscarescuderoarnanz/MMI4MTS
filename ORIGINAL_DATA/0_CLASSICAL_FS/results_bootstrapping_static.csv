@@ -1,9 +1,0 @@
-,0,1,selected,features
-0,0.1,0.3,Y,Age
-1,0.02,0.23,Y,Gender
-2,0.29,0.51,Y,SAPSIIIScore
-3,-0.09,0.12,N,MonthOfAdmission
-4,0.01,0.21,Y,YearOfAdmission
-5,-0.07,0.76,N,Origin
-6,-0.57,0.37,N,ReasonAdmission
-7,-0.08,0.03,N,PatientCategory

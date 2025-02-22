@@ -1,0 +1,2 @@
+Model,test_acc,roc_auc,sensitivity,specificity
+./Results_MultGCNN,61.6 ± 1.2,64.38 ± 2.94,60.62 ± 4.27,61.8 ± 0.63

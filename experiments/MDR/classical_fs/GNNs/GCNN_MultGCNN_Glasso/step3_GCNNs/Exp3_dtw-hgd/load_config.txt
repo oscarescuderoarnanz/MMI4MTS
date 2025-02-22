@@ -1,0 +1,22 @@
+{
+    "folders": ["0", "1", "2", "3"],
+    "norm": "robustNorm",
+    "in_dim_GCN": 1,
+    "out_dim_GCN": 1,
+    "n_epochs": 1000,
+    "early_stopping_patience": 50,
+    "h_dropout": [0.0, 0.15, 0.3],
+    "h_learning_rate": [0.001, 0.01, 0.05, 0.1],
+    "h_decay": [0, 1e-5, 1e-4, 1e-3, 1e-2],
+    "h_hid_dim": [4, 8, 16, 32],
+    "h_layers": [1, 2, 3, 4, 5, 6],
+    "seed": [36, 50, 75, 120, 215],
+    "embedding_dim_static": 2,
+    "embedding_dim_temporal": 16,
+    "h_fc_dim": [4, 8, 12, 16, 32, 64],
+    "fc_layer": [[18, 1]],
+    "typeGCN": "standard_gcnn",
+    "K": [0],
+    "way_to_build_graph": "dtw",
+    "device_id": 0
+}

@@ -1,0 +1,2 @@
+Model,Accuracy,ROC AUC,Sensitivity,Specificity
+./Results_GCNN,66.56 ± 1.25,69.9 ± 1.05,65.74 ± 4.06,66.84 ± 1.84

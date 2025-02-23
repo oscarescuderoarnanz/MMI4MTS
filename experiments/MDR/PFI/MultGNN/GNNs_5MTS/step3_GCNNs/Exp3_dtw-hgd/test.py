@@ -83,6 +83,5 @@ if __name__ == "__main__":
     df.to_csv(output_path, index=False)
     
     print(f"Results saved to {output_path}")
-    print("\n", str_result)
 
     torch.cuda.empty_cache()

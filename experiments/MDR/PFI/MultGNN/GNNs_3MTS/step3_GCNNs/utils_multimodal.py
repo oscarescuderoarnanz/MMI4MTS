@@ -514,7 +514,7 @@ class Tester:
                 in_dim_static=params['in_dim_GCN'],
                 embedding_dim_static=params['embedding_dim_static'],
                 embedding_dim_temporal=params['embedding_dim_temporal'],
-                fc_out_dim=params['fc_layer'],
+                fc_out_dim=best_hyperparameters['fc_dim'],
                 seed=best_hyperparameters['seed']
             ).to(device)
 
